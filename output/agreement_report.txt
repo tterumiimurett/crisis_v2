@@ -1,0 +1,21 @@
+Calculating Time Overlaps...
+
+--- Time Agreement Stats ---
+Total Annotated Duration (union): 54482.16 seconds
+Covered by exactly 1 annotators: 11381.96 s (20.89%)
+Covered by exactly 2 annotators: 6324.34 s (11.61%)
+Covered by exactly 3 annotators: 36775.86 s (67.50%)
+
+Calculating Segment Stats...
+
+Unique Annotators Found in segments: {'3', '2', '1'}
+
+--- Segment Agreement Stats ---
+Total Segments Checked: 10155
+Isolated (No overlap): 1017 (10.01%)
+Partial Support (1 matching ann): 896 (8.82%)
+Full Support (2 matching anns): 8242 (81.16%)
+
+Split Cases Detected: 1107
+(One segment overlaps with >=2 segments from a single other annotator)
+Rate: 10.90%
